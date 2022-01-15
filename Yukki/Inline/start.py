@@ -128,7 +128,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    "➕ Add me TO YOUR GROUP",
+                    "➕ ADD ME TO YOUR GROUP",
                     url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                 )
             ],
