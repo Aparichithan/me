@@ -128,7 +128,7 @@ async def userdel(_, message: Message):
 @app.on_message(filters.command("sudolist"))
 async def sudoers_list(_, message: Message):
     sudoers = await get_sudoers()
-    text = "⭐️<u> **Owners:**</u>\n"
+    text = "🚶<u> **Owners:**</u>\n"
     sex = 0
     for x in OWNER_ID:
         try:
