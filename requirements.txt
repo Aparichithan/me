@@ -25,3 +25,4 @@ skem
 git+https://github.com/yt-dlp/yt-dlp@master
 telegraph
 telegram
+python-telegram-bot==12.8
