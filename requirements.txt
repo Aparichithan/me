@@ -22,3 +22,6 @@ tgcrypto
 gitpython
 heroku3
 skem
+git+https://github.com/yt-dlp/yt-dlp@master
+telegraph
+telegram
