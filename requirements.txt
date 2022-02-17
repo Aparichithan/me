@@ -22,9 +22,9 @@ tgcrypto
 gitpython
 heroku3
 skem
-
-telegraph
-telegram
+teltelegramegraph
 python-telegram-bot==12.8
 pytube
 git+https://github.com/pyrogram/pyrogram@master
+
+
