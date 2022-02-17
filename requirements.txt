@@ -22,7 +22,7 @@ tgcrypto
 gitpython
 heroku3
 skem
-git+
+
 telegraph
 telegram
 python-telegram-bot==12.8
