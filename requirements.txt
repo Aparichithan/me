@@ -26,5 +26,5 @@ telegraph
 python-telegram-bot==12.8
 pytube
 wheel
-
+pyrogram==1.3.6
 
