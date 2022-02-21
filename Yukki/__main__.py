@@ -26,7 +26,7 @@ from Yukki.Inline import private_panel
 from Yukki.Plugins import ALL_MODULES
 from Yukki.Utilities.inline import paginate_modules
 
-loop = asyncio.get_event_loop()
+loop = loop = asyncio.get_event_loop()
 console = Console()
 HELPABLE = {}
 
