@@ -25,6 +25,6 @@ skem
 telegraph
 python-telegram-bot==12.8
 pytube
-git+https://github.com/pyrogram/pyrogram@master
 wheel
+
 
