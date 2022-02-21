@@ -1,7 +1,7 @@
 aiohttp
 aiofiles
 asyncio
-ffmpeg-pyrogram
+ffmpeg-python
 pillow
 pyrogram
 hachoir
